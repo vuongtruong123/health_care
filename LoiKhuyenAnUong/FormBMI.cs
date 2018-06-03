@@ -48,7 +48,17 @@ namespace LoiKhuyenAnUong
 
         private void btnTinh_Click(object sender, EventArgs e)
         {
-            
+            try
+            {
+                int CanNang = Convert.ToInt32(txtCanNang.Text);
+                double ChieuCao = Convert.ToDouble(txtChieuCao.Text) / 100;
+                double bmi = Math.Round(CanNang / (ChieuCao * ChieuCao), 1);
+                HienKetQua(bmi);
+            }
+            catch (Exception )
+            {
+                MessageBox.Show("Vui lòng nhập đủ cân nặng và chiều cao");
+            }
         }
 
         // hàm hiện kết quả
