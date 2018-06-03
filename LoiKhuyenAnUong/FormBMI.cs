@@ -96,7 +96,8 @@ namespace LoiKhuyenAnUong
 
         private void btnLoiKhuyenToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            
+            FormLoiKhuyen formLoiKhuyen = new FormLoiKhuyen();
+            formLoiKhuyen.ShowDialog();
         }
 
         private void FormBMI_Load(object sender, EventArgs e)
