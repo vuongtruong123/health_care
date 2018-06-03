@@ -1,0 +1,24 @@
+C:\Users\DELL\Documents\AppOPP\LoiKhuyenAnUong\LoiKhuyenAnUong\bin\Debug\LoiKhuyenAnUong.exe.config
+C:\Users\DELL\Documents\AppOPP\LoiKhuyenAnUong\LoiKhuyenAnUong\bin\Debug\LoiKhuyenAnUong.exe
+C:\Users\DELL\Documents\AppOPP\LoiKhuyenAnUong\LoiKhuyenAnUong\bin\Debug\LoiKhuyenAnUong.pdb
+C:\Users\DELL\Documents\AppOPP\LoiKhuyenAnUong\LoiKhuyenAnUong\obj\Debug\LoiKhuyenAnUong.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\AppOPP\LoiKhuyenAnUong\LoiKhuyenAnUong\obj\Debug\LoiKhuyenAnUong.Properties.Resources.resources
+C:\Users\DELL\Documents\AppOPP\LoiKhuyenAnUong\LoiKhuyenAnUong\obj\Debug\LoiKhuyenAnUong.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\AppOPP\LoiKhuyenAnUong\LoiKhuyenAnUong\obj\Debug\LoiKhuyenAnUong.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\AppOPP\LoiKhuyenAnUong\LoiKhuyenAnUong\obj\Debug\LoiKhuyenAnUong.exe
+C:\Users\DELL\Documents\AppOPP\LoiKhuyenAnUong\LoiKhuyenAnUong\obj\Debug\LoiKhuyenAnUong.pdb
+C:\Users\DELL\Documents\AppOPP\LoiKhuyenAnUong\LoiKhuyenAnUong\obj\Debug\LoiKhuyenAnUong.FormBMI.resources
+C:\Users\DELL\Documents\AppOPP\LoiKhuyenAnUong\LoiKhuyenAnUong\obj\Debug\LoiKhuyenAnUong.FormLoiKhuyen.resources
+D:\w\health care\LoiKhuyenAnUong\LoiKhuyenAnUong\bin\Debug\LoiKhuyenAnUong.exe.config
+D:\w\health care\LoiKhuyenAnUong\LoiKhuyenAnUong\obj\Debug\LoiKhuyenAnUong.exe
+D:\w\health care\LoiKhuyenAnUong\LoiKhuyenAnUong\obj\Debug\LoiKhuyenAnUong.pdb
+D:\w\health care\LoiKhuyenAnUong\LoiKhuyenAnUong\bin\Debug\LoiKhuyenAnUong.exe
+D:\w\health care\LoiKhuyenAnUong\LoiKhuyenAnUong\bin\Debug\LoiKhuyenAnUong.pdb
+D:\w\health care\LoiKhuyenAnUong\LoiKhuyenAnUong\obj\Debug\LoiKhuyenAnUong.FormBMI.resources
+D:\w\health care\LoiKhuyenAnUong\LoiKhuyenAnUong\obj\Debug\LoiKhuyenAnUong.FormLoiKhuyen.resources
+D:\w\health care\LoiKhuyenAnUong\LoiKhuyenAnUong\obj\Debug\LoiKhuyenAnUong.Properties.Resources.resources
+D:\w\health care\LoiKhuyenAnUong\LoiKhuyenAnUong\obj\Debug\LoiKhuyenAnUong.csproj.GenerateResource.Cache
+D:\w\health care\LoiKhuyenAnUong\LoiKhuyenAnUong\obj\Debug\LoiKhuyenAnUong.csprojResolveAssemblyReference.cache
+D:\w\health care\health_care\LoiKhuyenAnUong\bin\Debug\LoiKhuyenAnUong.exe.config
+D:\w\health care\health_care\LoiKhuyenAnUong\obj\Debug\LoiKhuyenAnUong.exe
+D:\w\health care\health_care\LoiKhuyenAnUong\obj\Debug\LoiKhuyenAnUong.pdb
