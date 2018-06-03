@@ -22,3 +22,10 @@ D:\w\health care\LoiKhuyenAnUong\LoiKhuyenAnUong\obj\Debug\LoiKhuyenAnUong.cspro
 D:\w\health care\health_care\LoiKhuyenAnUong\bin\Debug\LoiKhuyenAnUong.exe.config
 D:\w\health care\health_care\LoiKhuyenAnUong\obj\Debug\LoiKhuyenAnUong.exe
 D:\w\health care\health_care\LoiKhuyenAnUong\obj\Debug\LoiKhuyenAnUong.pdb
+D:\w\health care\health_care\LoiKhuyenAnUong\bin\Debug\LoiKhuyenAnUong.exe
+D:\w\health care\health_care\LoiKhuyenAnUong\bin\Debug\LoiKhuyenAnUong.pdb
+D:\w\health care\health_care\LoiKhuyenAnUong\obj\Debug\LoiKhuyenAnUong.csprojResolveAssemblyReference.cache
+D:\w\health care\health_care\LoiKhuyenAnUong\obj\Debug\LoiKhuyenAnUong.FormBMI.resources
+D:\w\health care\health_care\LoiKhuyenAnUong\obj\Debug\LoiKhuyenAnUong.FormLoiKhuyen.resources
+D:\w\health care\health_care\LoiKhuyenAnUong\obj\Debug\LoiKhuyenAnUong.Properties.Resources.resources
+D:\w\health care\health_care\LoiKhuyenAnUong\obj\Debug\LoiKhuyenAnUong.csproj.GenerateResource.Cache

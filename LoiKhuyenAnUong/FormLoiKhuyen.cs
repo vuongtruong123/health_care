@@ -69,7 +69,7 @@ namespace LoiKhuyenAnUong
 
         private void btnClose_Click(object sender, EventArgs e)
         {
-            
+            this.Close();
         }
 
         private void cbxCheDo_SelectedIndexChanged(object sender, EventArgs e)
